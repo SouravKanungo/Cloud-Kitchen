@@ -21,4 +21,23 @@ The website, a landing page for Food Website is divided into the following secti
 
 
 # Project view
-![omnifood1](https://user-images.githubusercontent.com/72425181/128799796-0149ea3b-9b46-4982-8499-17ec88a2215e.jpg)
+![Screenshot (689)](https://user-images.githubusercontent.com/115405681/194770580-53c5278a-e3bd-4f58-afe7-810b04597c28.png)
+
+![Screenshot (690)](https://user-images.githubusercontent.com/115405681/194770595-a8a86aa4-8cd5-479e-96da-ef99f908b576.png)
+
+![Screenshot (691)](https://user-images.githubusercontent.com/115405681/194770604-c8c8441a-7f99-4592-9fae-a8a069102d51.png)
+
+![Screenshot (692)](https://user-images.githubusercontent.com/115405681/194770610-9ffb2333-ac24-479c-b8db-7edfd4e21c26.png)
+
+# Known Bugs
+
+There are no known bugs.
+
+# Built With
+
+* HTML
+* CSS
+* JAVASCRIPT
+
+
+
