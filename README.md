@@ -29,6 +29,8 @@ The website, a landing page for Food Website is divided into the following secti
 
 ![Screenshot (692)](https://user-images.githubusercontent.com/115405681/194770610-9ffb2333-ac24-479c-b8db-7edfd4e21c26.png)
 
+# Link to website
+https://cloudkitchenssk.netlify.app/
 # Known Bugs
 
 There are no known bugs.
